@@ -1,4 +1,4 @@
-# Team Greta In The Space
+# Greta in The Space - AstroPi 19-20 project
 
 **Chosen theme**: ​Life on Earth
 **Team members’ names**: ​ ​Luca Borrelli; Camilla Stefani
