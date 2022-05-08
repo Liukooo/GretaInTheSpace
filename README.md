@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Team Greta In The Space - AstroPi Mission Space Lab 2019/2020 project
+=======
+# Greta in The Space - AstroPi 19-20 project
+>>>>>>> 6cf3e983a57c0b62aa8daf0a8f80f1049f32a728
 
 **Chosen theme**: ​Life on Earth
 **Team members’ names**: ​ ​Luca Borrelli; Camilla Stefani
